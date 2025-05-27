@@ -1,3 +1,5 @@
+//Time complexity: (-)(n)
+//Auxilary space complexity: (-)(1)
 
 #include<iostream>
 
